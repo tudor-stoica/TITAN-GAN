@@ -1,0 +1,10 @@
+torch>=2.0
+monai==1.5.2
+einops>=0.8
+SimpleITK>=2.3
+scikit-image>=0.22
+scipy>=1.11
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+tqdm>=4.66
